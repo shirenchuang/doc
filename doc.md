@@ -108,4 +108,6 @@ PrettyZoo：PrettyZoo是一款优秀的可视化zookeeper管理工具,能够对z
 
 相比于去服务器上用CLI, 这个简直就是开发人员的福音
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/287f402d92de4a99af65e1044d754ea3.jpeg#pic_center)
+
 
